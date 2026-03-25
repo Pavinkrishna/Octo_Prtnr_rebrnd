@@ -1,0 +1,58 @@
+**1. Logo image — /public/Site.png**
+
+Replace this file with the partner's logo. Referenced in 3 components:
+
+
+
+src/components/ApiKeyScreen.tsx — line 56
+
+src/components/ConnectScreen.tsx — line 35
+
+src/components/PlaygroundView.tsx — line 63
+
+
+
+**2. App title text — "Lares Voice Agents Playground"**
+
+**Appears in 4 files:**
+
+
+
+src/pages/\_app.tsx — line 10 (browser tab title)
+
+src/pages/\_document.tsx — line 8 (meta description)
+
+src/components/ApiKeyScreen.tsx — line 63 (API key screen heading)
+
+src/components/ConnectScreen.tsx — line 42 (connect screen heading)
+
+src/components/PlaygroundView.tsx — line 66 (playground header)
+
+
+
+
+
+**3. Favicon — /public/favicon.ico**
+
+src/pages/\_document.tsx — line 7
+
+
+
+
+
+**4. Theme colors (optional)**
+
+If the partner wants different accent colors (currently cyan), update the Tailwind classes:
+
+
+
+src/styles/globals.css — background/accent colors
+
+All components use text-cyan-400, bg-cyan-900/40, etc. — search for cyan to swap
+
+
+
+**Quick summary:**
+
+For a basic rebrand, just swap /public/Site.png, /public/favicon.ico, and find-replace "Lares Voice Agents Playground" with the partner name across those 5 files.
+

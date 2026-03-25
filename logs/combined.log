@@ -1,0 +1,92 @@
+2025-09-12T12:14:15: 
+2025-09-12T12:14:15: > agents-playground@0.1.0 start
+2025-09-12T12:14:15: > next start
+2025-09-12T12:14:15: 
+2025-09-12T12:14:16:   ▲ Next.js 14.2.30
+2025-09-12T12:14:16:   - Local:        http://localhost:3000
+2025-09-12T12:14:16: 
+2025-09-12T12:14:16:  ✓ Starting...
+2025-09-12T12:14:16:  ✓ Ready in 374ms
+2025-09-12T12:20:51: 
+2025-09-12T12:20:51: > agents-playground@0.1.0 start
+2025-09-12T12:20:51: > next start
+2025-09-12T12:20:51: 
+2025-09-12T12:20:52:   ▲ Next.js 14.2.30
+2025-09-12T12:20:52:   - Local:        http://localhost:3000
+2025-09-12T12:20:52: 
+2025-09-12T12:20:52:  ✓ Starting...
+2025-09-12T12:20:52:  ✓ Ready in 374ms
+2025-09-12T12:23:23: 
+2025-09-12T12:23:23: > agents-playground@0.1.0 start
+2025-09-12T12:23:23: > next start
+2025-09-12T12:23:23: 
+2025-09-12T12:23:23:   ▲ Next.js 14.2.30
+2025-09-12T12:23:23:   - Local:        http://localhost:3000
+2025-09-12T12:23:23: 
+2025-09-12T12:23:23:  ✓ Starting...
+2025-09-12T12:23:23:  ✓ Ready in 372ms
+2025-09-12T12:23:35: 
+2025-09-12T12:23:35: > agents-playground@0.1.0 start
+2025-09-12T12:23:35: > next start
+2025-09-12T12:23:35: 
+2025-09-12T12:23:35:   ▲ Next.js 14.2.30
+2025-09-12T12:23:35:   - Local:        http://localhost:3000
+2025-09-12T12:23:35: 
+2025-09-12T12:23:35:  ✓ Starting...
+2025-09-12T12:23:35:  ✓ Ready in 370ms
+2025-09-12T13:04:50: 
+2025-09-12T13:04:50: > agents-playground@0.1.0 start
+2025-09-12T13:04:50: > next start
+2025-09-12T13:04:50: 
+2025-09-12T13:04:51:   ▲ Next.js 14.2.30
+2025-09-12T13:04:51:   - Local:        http://localhost:3000
+2025-09-12T13:04:51: 
+2025-09-12T13:04:51:  ✓ Starting...
+2025-09-12T13:04:51:  ✓ Ready in 385ms
+2025-09-12T13:27:16: 
+2025-09-12T13:27:16: > agents-playground@0.1.0 start
+2025-09-12T13:27:16: > next start
+2025-09-12T13:27:16: 
+2025-09-12T13:27:16:   ▲ Next.js 14.2.30
+2025-09-12T13:27:16:   - Local:        http://localhost:3000
+2025-09-12T13:27:16: 
+2025-09-12T13:27:16:  ✓ Starting...
+2025-09-12T13:27:17:  ✓ Ready in 380ms
+2025-09-12T13:27:57:  ⚠ For production Image Optimization with Next.js, the optional 'sharp' package is strongly recommended. Run 'npm i sharp', and Next.js will use it automatically for Image Optimization.
+2025-09-12T13:27:57: Read more: https://nextjs.org/docs/messages/sharp-missing-in-production
+2025-10-13T11:24:52: 
+2025-10-13T11:24:52: > agents-playground@0.1.0 start
+2025-10-13T11:24:52: > next start
+2025-10-13T11:24:52: 
+2025-10-13T11:24:52:   ▲ Next.js 14.2.30
+2025-10-13T11:24:52:   - Local:        http://localhost:3000
+2025-10-13T11:24:52: 
+2025-10-13T11:24:52:  ✓ Starting...
+2025-10-13T11:24:52:  ✓ Ready in 385ms
+2025-10-13T11:26:02: 
+2025-10-13T11:26:02: > agents-playground@0.1.0 start
+2025-10-13T11:26:02: > next start
+2025-10-13T11:26:02: 
+2025-10-13T11:26:02:   ▲ Next.js 14.2.30
+2025-10-13T11:26:02:   - Local:        http://localhost:3000
+2025-10-13T11:26:02: 
+2025-10-13T11:26:02:  ✓ Starting...
+2025-10-13T11:26:02:  ✓ Ready in 380ms
+2025-10-13T11:32:41: 
+2025-10-13T11:32:41: > agents-playground@0.1.0 start
+2025-10-13T11:32:41: > next start
+2025-10-13T11:32:41: 
+2025-10-13T11:32:41:   ▲ Next.js 14.2.30
+2025-10-13T11:32:41:   - Local:        http://localhost:3000
+2025-10-13T11:32:41: 
+2025-10-13T11:32:41:  ✓ Starting...
+2025-10-13T11:32:41:  ✓ Ready in 379ms
+2025-10-13T11:55:03: 
+2025-10-13T11:55:03: > agents-playground@0.1.0 start
+2025-10-13T11:55:03: > next start
+2025-10-13T11:55:03: 
+2025-10-13T11:55:03:   ▲ Next.js 14.2.30
+2025-10-13T11:55:03:   - Local:        http://localhost:3000
+2025-10-13T11:55:03: 
+2025-10-13T11:55:03:  ✓ Starting...
+2025-10-13T11:55:04:  ✓ Ready in 375ms
